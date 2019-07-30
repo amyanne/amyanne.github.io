@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Climbing Gem"
-date:       2019-07-30 15:46:09 +0000
+date:       2019-07-30 11:46:10 -0400
 permalink:  climbing_gem
 ---
 
